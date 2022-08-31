@@ -1,6 +1,7 @@
 ###  Hi there 👋 It's Pooja
 #### 😄 Pronouns: Technophile 👩🏼‍💻 Heliophile 🌞 Orophile 🗻
-- 🌱 I’m currently learning and exploring various things in my favourite domain.
+- 🌱 I’m currently learning and exploring various things in tech domain.
+- ♥ In love with sketching...
 
 
 <!--
