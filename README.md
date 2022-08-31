@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Pooja
+#### - 🌱 I’m currently learning and exploring various things in my favourite domain.
+#### 😄 Pronouns: Technophile 👩🏼‍💻 Heliophile 🌞 Orophile 🗻
 
 <!--
 **Pooja-Lohar25/Pooja-Lohar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
